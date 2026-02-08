@@ -4,7 +4,7 @@ PS4 Rebuild in Python. A project made with me and my friend Xemix.
 Were creating this beacouse of boredom.
 
 
-We dont want any trouble making this were to young for that.
+We dont want any trouble making this were too young for that.
 
 
 Were making it with AI and thats it.
